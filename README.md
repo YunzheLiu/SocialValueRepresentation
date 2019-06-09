@@ -6,4 +6,4 @@ the main modeling code is located in
 
 ``` Modeling_Analysis_Main.m ```
 
-This will will fit all models with Laplace approximation, model selection is done in bayesian model selection scheme. 
+This will fit all models with Laplace approximation. Model selection is done in bayesian model selection scheme. 
